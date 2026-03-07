@@ -1,4 +1,6 @@
-I'm Gabriel Diogenes, a Backend Java Developer based in Brazil.
+# Gabriel Diogenes
+
+Backend Java Developer based in Brazil.
 
 I work with backend development, process automation and system integration, focusing on building reliable solutions for real-world business environments.
 
@@ -6,24 +8,24 @@ Currently I develop automation tools using Java and Selenium to replace repetiti
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-Backend  
+### Backend
 Java • Spring Boot • REST APIs • Selenium
 
-Database  
+### Database
 Oracle • SQL • PL/SQL • MySQL
 
-Tools & Infrastructure  
+### Tools & Infrastructure
 Maven • Git • GitLab • VirtualBox
 
-Testing  
+### Testing
 JUnit • Mockito
 
-Observability  
+### Observability
 Grafana
 
-Currently learning  
+### Currently Learning
 Microservices • RabbitMQ • Distributed Systems • Python
 
 ---
@@ -32,28 +34,36 @@ Microservices • RabbitMQ • Distributed Systems • Python
 
 - Backend architecture
 - Microservices
-- Automation systems
+- Process automation
 - Distributed systems
 
 ---
 
 ## Featured Projects
 
-🔹 Automation Bots  
-Automation tools built with Java and Selenium to automate repetitive workflows.
+### Automation Bots
+Automation tools developed with Java and Selenium to automate repetitive workflows and internal processes.
 
-🔹 Microservices Document Processor  
-System designed with Python and Spring Boot to process and split PDF documents using AI analysis.
+### Backend API Projects
+REST APIs built with Spring Boot following clean architecture practices and database integration.
 
-🔹 Backend API Projects  
-REST APIs built with Spring Boot following clean architecture practices.
+### Microservices Document Processor
+System designed to process and split documents using microservices architecture and AI analysis.
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Diogenes&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Diogenes&layout=compact&theme=tokyonight)
 
 ---
 
 ## Contact
 
 LinkedIn  
-www.linkedin.com/in/gabriel-diógenes-24339623a
+https://linkedin.com/in/gabriel-diogenes
 
 GitHub  
 https://github.com/Gabriel-Diogenes
