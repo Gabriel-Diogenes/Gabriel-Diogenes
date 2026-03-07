@@ -2,7 +2,7 @@
 
 Backend Java Developer based in Brazil.
 
-I work with backend development, process automation and system integration, focusing on building reliable solutions for real-world business environments.
+I specialize in backend development, process automation and system integration, focusing on building reliable solutions for real-world business environments.
 
 Currently I develop automation tools using Java and Selenium to replace repetitive manual processes and integrate corporate systems with databases and internal platforms.
 
@@ -39,16 +39,16 @@ Microservices • RabbitMQ • Distributed Systems • Python
 
 ---
 
-## Featured Projects
+## Projects
 
 ### Automation Bots
 Automation tools developed with Java and Selenium to automate repetitive workflows and internal processes.
 
-### Backend API Projects
-REST APIs built with Spring Boot following clean architecture practices and database integration.
+### Spring Boot APIs
+Backend REST APIs built with Spring Boot using clean architecture patterns and database integration.
 
-### Microservices Document Processor
-System designed to process and split documents using microservices architecture and AI analysis.
+### Document Processing System
+A system designed to process and split documents using microservices architecture.
 
 ---
 
@@ -63,7 +63,7 @@ System designed to process and split documents using microservices architecture 
 ## Contact
 
 LinkedIn  
-https://linkedin.com/in/gabriel-diogenes
+https://www.linkedin.com/in/gabriel-diógenes-24339623a
 
 GitHub  
 https://github.com/Gabriel-Diogenes
