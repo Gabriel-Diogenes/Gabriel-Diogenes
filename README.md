@@ -54,9 +54,9 @@ System designed to process and split documents using microservices architecture 
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Diogenes&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Diogenes&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Diogenes&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Diogenes&layout=compact)
 
 ---
 
