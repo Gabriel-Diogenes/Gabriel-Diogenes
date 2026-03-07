@@ -51,7 +51,7 @@ A microservices-based system designed to process and split documents.
 
 ## Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Diogenes)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Diogenes&theme=tokyo-night)
 
 ---
 
