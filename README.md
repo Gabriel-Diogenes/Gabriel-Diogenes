@@ -2,68 +2,63 @@
 
 Backend Java Developer based in Brazil.
 
-I specialize in backend development, process automation and system integration, focusing on building reliable solutions for real-world business environments.
+I work with backend development, automation and system integration, focusing on building reliable solutions for real-world business environments.
 
-Currently I develop automation tools using Java and Selenium to replace repetitive manual processes and integrate corporate systems with databases and internal platforms.
+My main experience is developing automation tools using Java and Selenium to replace repetitive manual processes and integrate corporate systems with databases and internal platforms.
 
 ---
 
 ## Tech Stack
 
-### Backend
+Backend  
 Java • Spring Boot • REST APIs • Selenium
 
-### Database
+Database  
 Oracle • SQL • PL/SQL • MySQL
 
-### Tools & Infrastructure
-Maven • Git • GitLab • VirtualBox
-
-### Testing
+Testing  
 JUnit • Mockito
 
-### Observability
+Tools  
+Maven • Git • GitLab • VirtualBox
+
+Observability  
 Grafana
 
-### Currently Learning
-Microservices • RabbitMQ • Distributed Systems • Python
+---
+
+## Areas of Interest
+
+Backend Architecture  
+Microservices  
+Process Automation  
+Distributed Systems
 
 ---
 
-## Current Focus
+## Featured Work
 
-- Backend architecture
-- Microservices
-- Process automation
-- Distributed systems
+Automation Bots  
+Automation tools built with Java and Selenium to automate repetitive workflows and internal processes.
 
----
+Spring Boot APIs  
+Backend REST APIs developed with Spring Boot using clean architecture and database integration.
 
-## Projects
-
-### Automation Bots
-Automation tools developed with Java and Selenium to automate repetitive workflows and internal processes.
-
-### Spring Boot APIs
-Backend REST APIs built with Spring Boot using clean architecture patterns and database integration.
-
-### Document Processing System
-A system designed to process and split documents using microservices architecture.
+Document Processing System  
+A microservices-based system designed to process and split documents.
 
 ---
 
-## GitHub Statistics
+## Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Diogenes&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Diogenes&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Diogenes)
 
 ---
 
 ## Contact
 
 LinkedIn  
-https://www.linkedin.com/in/gabriel-diógenes-24339623a
+https://www.linkedin.com
 
 GitHub  
 https://github.com/Gabriel-Diogenes
