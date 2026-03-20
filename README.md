@@ -58,7 +58,7 @@ A microservices-based system designed to process and split documents.
 ## Contact
 
 LinkedIn  
-https://www.linkedin.com
+www.linkedin.com/in/gabriel-diógenes-24339623a
 
 GitHub  
 https://github.com/Gabriel-Diogenes
