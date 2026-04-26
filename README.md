@@ -23,7 +23,7 @@ My work involves backend development, process automation, microservices, and sys
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 
