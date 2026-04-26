@@ -23,7 +23,7 @@ My work involves backend development, process automation, microservices, and sys
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Backend**
 
@@ -96,11 +96,9 @@ Complete development of the company's institutional website using **WordPress** 
 
 <div align="center">
 
+![Isometric Contributions](https://raw.githubusercontent.com/Gabriel-Diogenes/Gabriel-Diogenes/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gabriel-Diogenes&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-![Isometric Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Diogenes&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-[![Isometric Contributions](https://github-profile-3d-contrib.vercel.app/api/gist/Gabriel-Diogenes)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 </div>
 
