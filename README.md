@@ -90,4 +90,18 @@ Dynamic report generation using **Jasper Report + SQL**, with complex views and 
 ### Institutional Website
 Complete development of the company's institutional website using **WordPress** — from design to publishing.
 
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gabriel-Diogenes&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+![Isometric Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Diogenes&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+[![Isometric Contributions](https://github-profile-3d-contrib.vercel.app/api/gist/Gabriel-Diogenes)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+</div>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1A56DB,100:0D1117&height=120&section=footer)
